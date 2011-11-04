@@ -50,6 +50,7 @@ structure of the tree.
 #- source
 %doc %{_texmfdistdir}/source/latex/synttree/synttree.dtx
 %doc %{_texmfdistdir}/source/latex/synttree/synttree.ins
+%doc %{_tlpkgobjdir}/*.tlpobj
 
 #-----------------------------------------------------------------------
 %prep
@@ -60,3 +61,5 @@ structure of the tree.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+mkdir -p %{buildroot}%{_tlpkgobjdir}
+cp -fpa tlpkg/tlpobj/*.tlpobj %{buildroot}%{_tlpkgobjdir}
