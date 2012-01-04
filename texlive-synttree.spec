@@ -6,7 +6,7 @@
 # catalog-version 1.4.2
 Name:		texlive-synttree
 Version:	1.4.2
-Release:	1
+Release:	2
 Summary:	Typeset syntactic trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/synttree
