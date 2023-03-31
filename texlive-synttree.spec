@@ -1,6 +1,6 @@
 Name:		texlive-synttree
 Version:	16252
-Release:	1
+Release:	2
 Summary:	Typeset syntactic trees
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/synttree
