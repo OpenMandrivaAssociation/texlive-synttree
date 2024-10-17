@@ -3,7 +3,7 @@ Version:	16252
 Release:	2
 Summary:	Typeset syntactic trees
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/synttree
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/synttree
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/synttree.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/synttree.doc.r%{version}.tar.xz
